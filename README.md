@@ -9,6 +9,13 @@ A cautionary tale about Azure Functions, burstable scale-out, and the day a serv
 
 - [PowerPoint (.pptx)](slides/My%20$8000%20Serverless%20Mistake%20v2.pptx)
 - [PDF](slides/My%20$8000%20Serverless%20Mistake%20v2.pdf)
+- [Slidev](slidev/slides.md)
+
+  ```sh
+  cd slidev
+  npm install
+  npm run dev
+  ```
 
 ## Key Takeaways
 
