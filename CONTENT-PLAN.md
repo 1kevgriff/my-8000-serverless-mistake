@@ -81,3 +81,27 @@ slide (35), relapse statement (39).
   Aug 2026.
 - **Slide 43's "the $52K report came from this"** claims a report that
   doesn't exist.
+
+## 45-Minute Trim
+
+From the Codex narrative review (2026-09-30), using current slide numbers.
+Nothing is hidden in the deck; hide these per event.
+
+**Hide first:** 3, 4, 5, 7, 8, 10, 14, 15, 18, 26, 33, 35, 37, 42. That
+leaves 32 slides. Say the section dividers' transitions aloud, but keep
+28 ("It's not just Azure"), since it's a reveal.
+
+| Material | Budget | Checkpoint |
+| --- | --- | --- |
+| Opening through the first warning (1–18) | 8 min | Reach 19 by minute 8 |
+| Main Azure story (19–27) | 12 min | Reach 28 by minute 20 |
+| AWS reversal (28–32) | 5 min | "Back in Azure" by minute 25 |
+| Fix, result, relapse (34–38) | 8 min | Reach 39 by minute 33 |
+| Safeguards and close (39–45) | 7 min | Done by minute 40 |
+| Q&A (46) | 5 min | Finish at 45 |
+
+**Emergency cuts while speaking:** skip 11, 25 or 27; compress AWS to
+28 → 30 → 31; skip 44 once 43's checklist is covered. Never cut 22, 24,
+34, 36 or 38: the discovery, the meters, the fix, the relief, and the
+reason to keep watching.
+
