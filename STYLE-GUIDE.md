@@ -1,6 +1,6 @@
 # Slide Style Guide
 
-Derived from `slides/My $8000 Serverless Mistake v2.pptx` (42 slides,
+Derived from `slides/My $8000 Serverless Mistake v2.pptx` (46 slides,
 16:9, 13.33" × 7.5"). Use it to extend this deck or to build new talks
 in the same visual system.
 
@@ -58,7 +58,7 @@ embedding on (File → Options → Save → Embed fonts in the file → all
 characters).
 
 Avenir Next has no `→` or `‒` glyph, so PowerPoint borrows them from
-Arial (slides 7, 21, 34). Use `–` rather than `‒` for negative
+Arial (slides 7, 21, 37). Use `–` rather than `‒` for negative
 numbers.
 
 | Role | Size | Weight | Color | Line spacing |
@@ -105,15 +105,15 @@ numbers.
 | # | Type | Background | Composition | Example slides |
 | --- | --- | --- | --- | --- |
 | 1 | Cover | Navy panel (7.92") + Paper | Title, subtitle, byline; headshot bottom-right | 1 |
-| 2 | Statement | Navy + 0.25" yellow left stripe | 46pt line at x 1.11", upper-middle | 2 |
-| 3 | Quote | Navy + stripe | Statement + 100pt `“` above | 5, 8, 12, 17, 22, 24, 28, 30, 37, 41 |
-| 4 | Section break | Navy + stripe | `0N` at 100pt, title at 42pt below | 4, 10, 14, 19, 26, 31, 36 |
-| 5 | Split list | Navy panel (4.72") + Paper | Optional kicker, title, rule left; list right | 3, 6, 9, 11, 13, 15, 16, 18, 20, 21, 25, 29, 32, 35, 38, 40 |
-| 6 | Hero number | Navy + stripe | 140pt figure, 32pt caption, 18pt gloss | 23, 34 |
-| 7 | Data table | Paper | 35pt navy title; navy header row with yellow text; zebra rows | 7, 27 |
-| 8 | Comparison | Paper; navy left half below title | Bad option on navy (yellow heading), good option on paper (navy heading) | 33 |
-| 9 | Code panel | Narrow navy panel (3.89") + Paper | Navy code card, JetBrains Mono | 39 |
-| 10 | Closing | Navy with diagonal Paper wedge | Rule, 52pt CTA, URL, contact list, headshot | 42 |
+| 2 | Statement | Navy + 0.25" yellow left stripe | 46pt line at x 1.11", upper-middle | 2, 23, 39 |
+| 3 | Quote | Navy + stripe | Statement + 100pt `“` above | 5, 8, 12, 17, 22, 26, 30, 32, 41, 45 |
+| 4 | Section break | Navy + stripe | `0N` at 100pt, title at 42pt below | 4, 10, 14, 19, 28, 33, 40 |
+| 5 | Split list | Navy panel (4.72") + Paper | Optional kicker, title, rule left; list right | 3, 6, 9, 11, 13, 15, 16, 18, 20, 21, 27, 31, 34, 35, 38, 42, 44 |
+| 6 | Hero number | Navy + stripe | 140pt figure, 32pt caption, 18pt gloss | 24, 25, 37 |
+| 7 | Data table | Paper | 35pt navy title; navy header row with yellow text; zebra rows | 7, 29 |
+| 8 | Comparison | Paper; navy left half below title | Bad option on navy (yellow heading), good option on paper (navy heading) | 36 |
+| 9 | Code panel | Narrow navy panel (3.89") + Paper | Navy code card, JetBrains Mono | 43 |
+| 10 | Closing | Navy with diagonal Paper wedge | Rule, 52pt CTA, URL, contact list, headshot | 46 |
 
 ### Section Numbering
 
@@ -123,11 +123,11 @@ numbers.
 
 ## Footer
 
-- Every slide except the cover (1) and the closing slide (42) carries a
+- Every slide except the cover (1) and the closing slide (46) carries a
   page number. It is right-aligned at x = 11.81", 12pt bold, and two
   digits (`07`).
 - The left side reads `Kevin Griffin · consultwithgriff.com` at 12pt.
-  It is omitted on full-width paper slides (7, 27, 33).
+  It is omitted on full-width paper slides (7, 29, 36).
 
 | Background | Footer text | Page number |
 | --- | --- | --- |
@@ -141,7 +141,7 @@ at the slide edge.
 
 - **Kickers** are optional: two or three words in ALL CAPS that frame
   the slide, such as `ROADMAP`, `MENTAL MODEL`, `TAKE-HOME`. Use them
-  sparingly (three slides in this deck).
+  sparingly (four slides in this deck).
 - **Titles** are short and opinionated, like a claim or a punchline:
   "What EP1 really bills", "OOM → the easy button".
 - **Statements** are first-person and confessional, one or two
