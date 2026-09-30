@@ -77,7 +77,7 @@ slide (35), relapse statement (39).
   instances to ~5 overnight. That fix is the payoff for slide 39.
 - **Source the savings on slide 37 (was 34).** There is no migration
   report, so "~$8,000 → ~$3,650/mo", −54%, and ~$52K/year need a source.
-  Functions plus Container Apps was ~$8.5K in Dec 2025 and ~$4.0K in
+  Functions plus Container Apps and Instances was ~$8.8K in Dec 2025 and ~$4.0K in
   Aug 2026.
 - **Slide 43's "the $52K report came from this"** claims a report that
   doesn't exist.
