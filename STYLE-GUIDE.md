@@ -44,16 +44,22 @@ slides still hard-code their hex values. New shapes pick up the theme.
 
 ## Typography
 
-- **Manrope** handles everything, and it's almost always bold.
-  Regular weight is only for glosses, subtitles, and footers.
+- **Avenir Next LT Pro** handles everything, and it's almost always
+  bold. Regular weight is only for glosses, subtitles, and footers.
 - **JetBrains Mono** is only for code or CLI blocks.
 - Titles and statements are left-aligned and in sentence case. Nothing
   is centered.
 
-Manrope is set as the theme's heading and body font. Neither Manrope
-nor JetBrains Mono ships with Office, so embed them before presenting
-anywhere else (File → Options → Save → Embed fonts in the file → all
+Avenir Next LT Pro is the theme's heading and body font. It's a
+Microsoft 365 cloud font, so M365 installs download it on demand; it
+replaced Manrope, whose variable-font install embedded only as
+ExtraLight. JetBrains Mono doesn't ship with Office, so keep font
+embedding on (File → Options → Save → Embed fonts in the file → all
 characters).
+
+Avenir Next has no `→` or `‒` glyph, so PowerPoint borrows them from
+Arial (slides 7, 21, 34). Use `–` rather than `‒` for negative
+numbers.
 
 | Role | Size | Weight | Color | Line spacing |
 | --- | --- | --- | --- | --- |
@@ -64,7 +70,7 @@ characters).
 | Statement / quote | 46pt | Bold | White | — |
 | Section title | 42pt | Bold | White | — |
 | Panel title | 38pt (30pt narrow) | Bold | White | 105% |
-| Full-width title | 35–38pt | Bold | Navy | — |
+| Full-width title | 32–38pt, one line | Bold | Navy | — |
 | Hero caption | 32pt | Bold | White | 110% |
 | List item | 22pt | Bold | Navy | 110% |
 | Subtitle (cover) | 19pt | Regular | Mist | 140% |
@@ -134,8 +140,8 @@ at the slide edge.
 ## Copy Voice
 
 - **Kickers** are optional: two or three words in ALL CAPS that frame
-  the slide, such as `ROADMAP`, `THE FINE PRINT`, `TAKE-HOME`. Use them
-  sparingly (four slides in this deck).
+  the slide, such as `ROADMAP`, `MENTAL MODEL`, `TAKE-HOME`. Use them
+  sparingly (three slides in this deck).
 - **Titles** are short and opinionated, like a claim or a punchline:
   "What EP1 really bills", "OOM → the easy button".
 - **Statements** are first-person and confessional, one or two

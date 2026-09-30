@@ -1,6 +1,6 @@
 # My $8,000 Serverless Mistake
 
-A cautionary tale about Azure Functions, burstable scale-out, and the day a serverless bill hit ~$8,000.
+A cautionary tale about Azure Functions, burstable scale-out, and a serverless bill that quietly burned ~$8,000 a month.
 
 - **Abstract:** [ABSTRACT.md](ABSTRACT.md)
 - **Sessionize:** [My $8,000 Serverless Mistake](https://sessionize.com/s/kevingriffin/my-8000-serverless-mistake/99944)
@@ -15,7 +15,7 @@ A cautionary tale about Azure Functions, burstable scale-out, and the day a serv
 - **Serverless shines for the right problems:** short-lived executions, event-driven triggers (HTTP, queue, blob), automatic retries, and burst scale from zero to max throughput on demand.
 - **Serverless struggles with the wrong ones:** dependencies that can't handle cloud scale (database connection limits, API rate limits) and high-compute or high-memory workloads.
 - **Beware "everything is a nail":** loving a tool too much is how you end up running work on it that it was never suited for.
-- **Watch your bill:** set budgets, set spend caps, and check Cost Analysis regularly, before the invoice does it for you.
+- **Watch your bill:** budgets only alert, so pair them with anomaly alerts and an automated brake (action groups), and check Cost Analysis regularly, before the invoice does it for you.
 
 ## Resources
 
