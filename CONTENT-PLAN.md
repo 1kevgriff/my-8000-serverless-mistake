@@ -87,21 +87,24 @@ slide (35), relapse statement (39).
 From the Codex narrative review (2026-09-30), using current slide numbers.
 Nothing is hidden in the deck; hide these per event.
 
-**Hide first:** 3, 4, 5, 7, 8, 10, 14, 15, 18, 26, 33, 35, 37, 42. That
-leaves 32 slides. Say the section dividers' transitions aloud, but keep
-28 ("It's not just Azure"), since it's a reveal.
+**Hide first:** 4, 5, 6, 8, 9, 11, 15, 16, 19, 27, 34, 36, 38, 43. That
+leaves 34 slides, including the intro and feedback slides. Say the
+section dividers' transitions aloud, but keep 29 ("It's not just
+Azure"), since it's a reveal.
 
 | Material | Budget | Checkpoint |
 | --- | --- | --- |
-| Opening through the first warning (1–18) | 8 min | Reach 19 by minute 8 |
-| Main Azure story (19–27) | 12 min | Reach 28 by minute 20 |
-| AWS reversal (28–32) | 5 min | "Back in Azure" by minute 25 |
-| Fix, result, relapse (34–38) | 8 min | Reach 39 by minute 33 |
-| Safeguards and close (39–45) | 7 min | Done by minute 40 |
-| Q&A (46) | 5 min | Finish at 45 |
+| Opening through the first warning (1–19) | 8 min | Reach 20 by minute 8 |
+| Main Azure story (20–28) | 12 min | Reach 29 by minute 20 |
+| AWS reversal (29–33) | 5 min | "Back in Azure" by minute 25 |
+| Fix, result, relapse (35–39) | 8 min | Reach 40 by minute 33 |
+| Safeguards and close (40–46) | 7 min | Done by minute 40 |
+| Q&A (47) | 5 min | Finish at 45 |
 
-**Emergency cuts while speaking:** skip 11, 25 or 27; compress AWS to
-28 → 30 → 31; skip 44 once 43's checklist is covered. Never cut 22, 24,
-34, 36 or 38: the discovery, the meters, the fix, the relief, and the
+**Emergency cuts while speaking:** skip 12, 26 or 28; compress AWS to
+29 → 31 → 32; skip 45 once 44's checklist is covered. Never cut 23, 25,
+35, 37 or 39: the discovery, the meters, the fix, the relief, and the
 reason to keep watching.
 
+**Per event:** slide 48 (feedback QR) is for The Cloud & AI Summit 2026.
+Swap its QR or hide it elsewhere. Slide 2's QR points to this repo.
