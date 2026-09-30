@@ -8,7 +8,7 @@ A cautionary tale about Azure Functions, burstable scale-out, and the day a serv
 ## Slides
 
 - [PowerPoint (.pptx)](slides/My%20$8000%20Serverless%20Mistake%20v2.pptx)
-- [PDF](slides/My%20$8000%20Serverless%20Mistake%20v2.pdf)
+- [Slide style guide](STYLE-GUIDE.md)
 
 ## Key Takeaways
 
